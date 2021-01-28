@@ -1,0 +1,4 @@
+1;andrea@mail.com;manuel@mail.com,alessio@mail.com;Prova;testo1;3
+2;andrea@mail.com;manuel@mail.com,alessio@mail.com;AA;prova;1
+3;manuel@mail.com;andrea@mail.com,manuel@mail.com,alessio@mail.com;Re: AA;prova;2
+4;manuel@mail.com;andrea@mail.com,manuel@mail.com,alessio@mail.com;Re: AA;prova;1
